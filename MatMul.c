@@ -5,7 +5,7 @@
 #include <complex.h>
 
 void initMatrices (complex * a, complex* b, size_t n) {
-    // Initalize matrices with complex numbers
+    // Initalizes matrices with complex numbers
     for (size_t i=0; i<n; i++) {
         for (size_t k=0; k<n; k++) {
             double realNum, imagNum;
