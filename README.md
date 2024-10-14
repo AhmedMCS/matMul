@@ -43,8 +43,6 @@ gcc MatMul.c -o MatMul -lm
 ## Configuration
 No special configuration is required. Ensure all dependencies are installed and properly set up.
 
-## Documentation
-For more detailed documentation and advanced usage, refer to the `README.md` file in the repository.
 
 ## Examples
 Example of compiling and running the application:
